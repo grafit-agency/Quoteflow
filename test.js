@@ -5,3 +5,5 @@ window.addEventListener('load', () => {
 
 
 console.log('WYLIŻ MI MIGDAŁKI!!! PLS!!! krzychu change');
+
+console.log('JABADABADU PALE BABOLA Z MOIM GANGIEM!')
