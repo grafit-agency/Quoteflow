@@ -4,4 +4,4 @@ window.addEventListener('load', () => {
 });
 
 
-console.log('WYLIŻ MI MIGDAŁKI');
+console.log('WYLIŻ MI MIGDAŁKI!!!');
