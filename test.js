@@ -4,4 +4,4 @@ window.addEventListener('load', () => {
 });
 
 
-console.log('WYLIŻ MI MIGDAŁKI!!! PLS!!!');
+console.log('WYLIŻ MI MIGDAŁKI!!! PLS!!! krzychu change');
